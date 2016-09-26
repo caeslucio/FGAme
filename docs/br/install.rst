@@ -115,4 +115,4 @@ Caso você não esteja familiarizado com o GIT e o github, este é um bom começ
 .. __: https://github.com/fabiommendes/FGAme/
 .. __: https://github.com/fabiommendes/smallvectors/
 .. __: https://github.com/fabiommendes/smallshapes/ 
-.. __: http://rogerdudler.github.io/git-guide/index.pt_BR.html/
+.. __: http://rogerdudler.github.io/git-guide/index.pt_BR.html
